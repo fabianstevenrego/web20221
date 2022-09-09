@@ -1,0 +1,39 @@
+body{
+	font-family: arial;
+    color: rgb(255, 255, 255);
+    background: linear-gradient(90deg,#a5a5a5,#000);
+    text-align:center;
+}
+.img img{
+    border-radius: 50%;
+    padding: 1px;
+    border: 8px solid transparent;
+    background: linear-gradient(60deg,#EFA51A 10%,#ce00 100%);
+    margin: auto;
+    display: block;
+    
+}
+
+.presentacion {
+	display: flex;
+    align-items: center;
+    padding-bottom: 20px;
+}
+.presentacion__nombre {
+
+	margin: 0 auto;
+    color: rgb(255, 255, 255);
+}
+
+.presentacion span,a {
+
+	margin: 0 auto;
+    color: rgb(252, 255, 103);
+}
+
+.presentacion__yo h1{
+color: rgb(255, 255, 255);
+text-align: center;
+font-family: 'Times New Roman', Times, serif;
+
+}
